@@ -31,3 +31,9 @@ in the source package).
 [2] Kerman, J., Wang, P. and Vaver, J. (2017)
     [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression Framework](https://research.google.com/pubs/pub45950.html).
 
+## How to install this package
+Currently, GeoexperimentsResearch can only be installed through GitHub. The following steps will enable your installation:
+
+`library(remotes)`
+
+`install_github("google/GeoexperimentsResearch")
