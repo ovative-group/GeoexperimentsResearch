@@ -36,4 +36,4 @@ Currently, GeoexperimentsResearch can only be installed through GitHub. The foll
 
 `library(remotes)`
 
-`install_github("google/GeoexperimentsResearch")
+`install_github("google/GeoexperimentsResearch")`
